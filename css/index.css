@@ -281,6 +281,11 @@
         margin: 0 auto;
         margin-top: 1em;
     }
+    
+    .nav-footer a:visited{
+    	color: black;
+
+    }
     .nav-footer a:hover{
     	color: green;
 
