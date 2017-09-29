@@ -279,13 +279,18 @@
         width: 2em;
         height: 2em;
         margin: 0 auto;
-        margin-top: 0.5em;
+        margin-top: 1em;
     }
+    .nav-footer a:hover{
+    	color: green;
+
+    }
+        
     .footer-01{
     	background: url(../img/icon1.png) no-repeat center center;
     	background-size: cover;
     }
-        .footer-02{
+     .footer-02{
     	background: url(../img/icon02.png) no-repeat center center;
     	background-size: 90%;
 
