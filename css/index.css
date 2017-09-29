@@ -162,7 +162,7 @@
     }
 
     .content-push ul li span {
-        background-color: gray;
+        /*background-color: gray;*/
         display: block;
         width: 1.97rem;
         height: 2.75rem;
@@ -207,7 +207,7 @@
     }
 
     .content-news ul li span {
-       background-color: gray;
+       /*background-color: gray;*/
         display: block;
         width: 1.97rem;
         height: 2.75rem;
@@ -252,7 +252,7 @@
     }
 
     .content-hots ul li span {
-        background-color: gray;
+        /*background-color: gray;*/
         display: block;
         width: 1.97rem;
         height: 2.75rem;
